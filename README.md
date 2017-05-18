@@ -7,6 +7,8 @@ I have also put a folder structure in place that reflects what a large applicati
 
 # Setup up
 
+Ensure you have Typescript version 2.2+ installed on your machine. This is required so that MSbuild does not complain when trying to compile your code.
+
 Run below from project root:
 
 <b>npm Install</b>
